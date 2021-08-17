@@ -1,16 +1,19 @@
-### Hi there 👋
+[blog]: https://img.shields.io/static/v1?label=&message=Blog&color=585858&logo=hugo
+[gitlab]: https://img.shields.io/static/v1?label=&message=Gitlab&color=585858&logo=gitlab
+[linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=585858&logo=linkedin
 
-<!--
-**kenhks/kenhks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  👋 Hi, I'm Ken Ho, and welcome to my GitHub bio.
+</p>
+<p>
+  ✍️ I'm an experienced developer working with AWS, Django, and Python.
+</p>
+<p>
+  🇭🇰 I'm based in Hong Kong
+</p>
 
-Here are some ideas to get you started:
+[![blog]](https://kenhks.github.io/) [![linkedin]](https://www.linkedin.com/in/kenhks)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ken Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenhks&show_icons=true&count_private=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenhks&layout=compact)
