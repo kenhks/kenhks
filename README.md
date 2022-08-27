@@ -12,7 +12,7 @@
   🇭🇰 I'm based in Hong Kong
 </p>
 
-[![blog]](https://kenhks.github.io/) [![linkedin]](https://www.linkedin.com/in/kenhks)
+[![blog]](https://kenhks.dev/) [![linkedin]](https://www.linkedin.com/in/kenhks)
 
 ![Ken Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenhks&show_icons=true&count_private=true&theme=onedark)
 
